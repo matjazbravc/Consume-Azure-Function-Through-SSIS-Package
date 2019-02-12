@@ -15,3 +15,8 @@ You can then drop the referenced assemblies in a shared location on the SSIS ser
 **Please use it only for your own or other certified assemblies, because this would be a security issue.**
 
 Enjoy!
+
+## Licence
+
+Licenced under [MIT](http://opensource.org/licenses/mit-license.php).
+Contact me on [LinkedIn](https://si.linkedin.com/in/matjazbravc).
